@@ -136,13 +136,17 @@ REACT_APP_FIREBASE_APP_ID=your_firebase_app_id
 This project is licensed under the **MIT License**.
 
 ## 👥 Team Members
-
+TECH AND DEVELOPMENT LEAD
 - **Ian Macharia** - Smart Contract Developer  macharia.gichoya@gmail.com
 - **Sharon Kitavi** - Backend Developer  -sharonkmwikali@gmail.com
 - **Farhiya Omar** - Backend Developer  -farhiyaomar24@gmail.com
+
+- BUSINESS AND GROTH LEAD
 - **Salma Adam** - Smart Contract Developer  -salmaadambakari@gmail.com
+- **Elvis Ndegwa - Backend Developer    -e.n.ndegwa00@gmail.com
+
+- PRODUCT/UI LEAD
 - **Linet Mugwanja** - Frontend Developer  -mugwanjalk@gmail.com
-- **Stan** - Backend Developer             -e.n.ndegwa00@gmail.com
 - **Truth** - Frontend Developer  trutherkadi@gmail.com
 
 ## 📢 Additional Resources
