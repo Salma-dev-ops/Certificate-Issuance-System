@@ -143,7 +143,7 @@ TECH AND DEVELOPMENT LEAD
 
 - BUSINESS AND GROTH LEAD
 - **Salma Adam** - Smart Contract Developer  -salmaadambakari@gmail.com
-- **Elvis Ndegwa - Backend Developer    -e.n.ndegwa00@gmail.com
+- Elvis Ndegwa - Backend Developer    -e.n.ndegwa00@gmail.com
 
 - PRODUCT/UI LEAD
 - **Linet Mugwanja** - Frontend Developer  -mugwanjalk@gmail.com
